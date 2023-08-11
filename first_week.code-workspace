@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../assignments/first_week"
+		},
+		{
+			"path": "../assignments/second_week"
+		},
+		{
+			"path": "../html2/Business"
+		},
+		{
+			"path": "../html2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html+css1"
+	}
+}

@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+#title{
+    font-size: 40px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+body{
+    background-color: lightblue;
+    color: black;
+    padding: 30px;
+    min-height: calc(100vh - 16px);
+    /* take away the margin */
+    /* calculate the height minus the margin */
+}
+
+#navbar{
+    display: block;
+    text-align-last: center;
+    text-decoration-color: white;
+    background-color: darkseagreen;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+nav .btn {
+    display: inline-block;
+    color: white;
+}
+
+.profile-pic {
+    width: 150px;
+}
+
+.about-me-paragraph {
+    display: inline-block;
+    width: calc(100% - 170px);
+}
+
+img {
+    float: left;
+}
